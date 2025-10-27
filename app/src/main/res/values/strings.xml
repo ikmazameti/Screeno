@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">Screeno</string>
+    <string name="screeno_logo">Screeno Logo</string>
+    <string name="app_tag">Capture. Record. Share.</string>
 </resources>
